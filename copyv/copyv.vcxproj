@@ -78,9 +78,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\..\lsMisc\CompareFileTime.h" />
     <ClInclude Include="..\..\lsMisc\GetLastErrorString.h" />
     <ClInclude Include="..\..\lsMisc\stdwin32\stdwin32.h" />
