@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copyv", "copyv\copyv2017.vcxproj", "{CCEDE9FF-6293-4442-93C8-3E650E4CAB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEDE9FF-6293-4442-93C8-3E650E4CAB39}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCEDE9FF-6293-4442-93C8-3E650E4CAB39}.Debug|Win32.Build.0 = Debug|Win32
+		{CCEDE9FF-6293-4442-93C8-3E650E4CAB39}.Release|Win32.ActiveCfg = Release|Win32
+		{CCEDE9FF-6293-4442-93C8-3E650E4CAB39}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
